@@ -1,0 +1,7 @@
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\bin\Debug\EJERCICIO_2.exe.config
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\bin\Debug\EJERCICIO_2.exe
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\bin\Debug\EJERCICIO_2.pdb
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\obj\Debug\EJERCICIO_2.csproj.AssemblyReference.cache
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\obj\Debug\EJERCICIO_2.csproj.CoreCompileInputs.cache
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\obj\Debug\EJERCICIO_2.exe
+C:\Users\casa\OneDrive\UPN\Fundamentos de ALgoritmos\PRACTICA_S5_FUN_AL\EJERCICIO_2\obj\Debug\EJERCICIO_2.pdb
